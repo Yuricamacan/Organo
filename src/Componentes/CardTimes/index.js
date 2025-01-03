@@ -21,7 +21,7 @@ const FotoContainer= styled.div`
   align-items: center;
   justify-content: center;
   margin: 0;
-  padding: 0;
+  padding: 10px;
   border-radius: 10px;
   
   & img{
