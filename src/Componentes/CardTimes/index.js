@@ -39,7 +39,7 @@ const InfoContainer = styled.div`
   padding: 0 10x 10px 10px;
   
   & h4{
-    font-size: 16px;
+    font-size: 14px;
   }
   
   & h5 {
