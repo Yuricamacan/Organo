@@ -40,6 +40,7 @@ const InfoContainer = styled.div`
   
   & h4{
     font-size: 14px;
+    padding: 10px;
   }
   
   & h5 {
