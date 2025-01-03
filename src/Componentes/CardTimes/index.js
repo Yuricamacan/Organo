@@ -36,7 +36,7 @@ const InfoContainer = styled.div`
   display: flex;
   flex-direction: column;
   text-align: center;
-  padding: 0 10x 10px 10px;
+  padding: 0 10x 10px 30px;
   
   & h4{
     font-size: 14px;
